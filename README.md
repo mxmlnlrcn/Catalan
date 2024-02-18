@@ -2,7 +2,7 @@
 A React Native App
 
 
-This project, Is a mobile App focused in people who use liquefied gas in their houses. The goal was to display the level of a gas tank with a magnetic device powered by Arduino. In addition of that, you can create an use your account to request a gas tank form the gas company Catalan and save the history of the orders with firebase.
+This project, Is a mobile App focused on people who use liquefied gas in their houses. The goal was to display the level of a gas tank with a magnetic device powered by Arduino. In addition to that, you can create and use your account to request a gas tank from the gas company Catalan and save the history of the orders with Firebase.
 
 
 # Captures
